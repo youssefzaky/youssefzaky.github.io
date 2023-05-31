@@ -4,15 +4,4 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+I have close to a decade of experience in many areas of machine learning across multiple companies and industries. Expertise in computer vision (detection, segmentation, tracking, depth, 3D, multicamera geometry, action recognition), self-supervised learning, reinforcement learning, robotics and control. I can rapidly prototype solutions based on existing literature or create novel adaptations of existing methods to suit a problem. I have experience in managing and leading ML teams, in product development, and in ML engineering using MLOps best practices.<p><a href="https://www.linkedin.com/in/youssef-zaky-955b17124/">LinkedIn Profile</a></p>
